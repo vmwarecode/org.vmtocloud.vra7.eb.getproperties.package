@@ -1,0 +1,1 @@
+# org.vmtocloud.vra7.eb.getproperties.package
